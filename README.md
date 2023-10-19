@@ -13,6 +13,14 @@ In this project, we aimed to achieve the following objectives:
 * Implement an alert mode that mimics a typical security system.
 * Create a user-friendly application that allows users to receive real-time information and take actions remotely, such as activating or deactivating the alarm mode.
 
+## Integration Diagram 
+
+<p align="left">
+  <img src="Images/Integration Diagram.png" alt="Fig. 1 - Integration Diagram">
+  <br>
+  <em>Fig. 1 - Integration Diagram</em>
+</p>
+
 ## Key Components
 The project uses the following hardware components and technologies:
 
@@ -34,22 +42,22 @@ The User Interface (GUI) is a Python application that runs in a computer termina
 <br>
 
 <p align="center">
-  <img src="Images/1.png" alt="Fig. 1 - Initial Graphical Interface">
+  <img src="Images/1.png" alt="Fig. 2 - Initial Graphical Interface">
   <br>
-  <em>Fig. 1 - Initial Graphical Interface</em>
+  <em>Fig. 2 - Initial Graphical Interface</em>
 </p>
 
 <div align="center">
-    <img src="Images/2.png" alt="Fig. 2 - GUI with Alarm Activated">
+    <img src="Images/2.png" alt="Fig. 3 - GUI with Alarm Activated">
     <img src="Images/3.png" alt="Notification when Something is Detected">
-    <p><em>Fig. 2 - GUI with Alarm Activated and Notification when Something is Detected</em></p>
+    <p><em>Fig. 3 - GUI with Alarm Activated and Notification when Something is Detected</em></p>
 </div>
 
 
 <p align="center">
-  <img src="Images/4.png" alt="Fig. 3 - Graphical Interface - Last Activity of PIR Motion Sensor">
+  <img src="Images/4.png" alt="Fig. 4 - Graphical Interface - Last Activity of PIR Motion Sensor">
   <br>
-  <em>Fig. 3 - Graphical Interface - Last Activity of PIR Motion Sensor</em>
+  <em>Fig. 4 - Graphical Interface - Last Activity of PIR Motion Sensor</em>
 </p>
 
 
