@@ -31,3 +31,25 @@ Data is sent to the cloud as soon as it is acquired. In terms of security, AWS s
 
 The User Interface (GUI) is a Python application that runs in a computer terminal. It was developed with the assistance of various libraries, including boto3 for handling cloud-based data stored in the table and tkinter for the graphical interface. This user interface provides a simplified interaction for the user. It allows users to enable or disable an alert mode and receive notifications if this mode detects any motion or noise. Additionally, users can query and view the latest activities categorized by noise, motion, or presence.
 
+<br>
+
+<p align="center">
+  <img src="Images/1.png" alt="Fig. 1 - Initial Graphical Interface">
+  <br>
+  <em>Fig. 1 - Initial Graphical Interface</em>
+</p>
+
+<div align="center">
+    <img src="Images/2.png" alt="Fig. 2 - GUI with Alarm Activated">
+    <img src="Images/3.png" alt="Notification when Something is Detected">
+    <p><em>Fig. 2 - GUI with Alarm Activated and Notification when Something is Detected</em></p>
+</div>
+
+
+<p align="center">
+  <img src="Images/4.png" alt="Fig. 3 - Graphical Interface - Last Activity of PIR Motion Sensor">
+  <br>
+  <em>Fig. 3 - Graphical Interface - Last Activity of PIR Motion Sensor</em>
+</p>
+
+
